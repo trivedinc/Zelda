@@ -9,7 +9,8 @@ public class Main {
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
         window.setTitle("Zelda");
-        window.setLocationRelativeTo(null);
+        window.setLocationRelativeTo(null);vsvs
         window.setVisible(true);
     }
 }
+cecwewec
